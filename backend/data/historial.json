@@ -1,0 +1,58 @@
+[
+  {
+    "id": "50550f74-c7a9-4f03-af35-fd0646874cc5",
+    "nombre": "Antonio",
+    "aciertos": 9,
+    "totalPreguntas": 10,
+    "estado": "Ganó",
+    "fecha": "2026-03-08T03:07:47.151Z"
+  },
+  {
+    "id": "cfc48cc1-41c1-4c67-add4-98ca1582d78a",
+    "nombre": "Adriana",
+    "aciertos": 7,
+    "totalPreguntas": 10,
+    "estado": "Ganó",
+    "fecha": "2026-03-08T04:24:43.203Z"
+  },
+  {
+    "id": "78236d53-eb04-4845-a58f-67eb32dffe25",
+    "nombre": "Jairo",
+    "aciertos": 5,
+    "totalPreguntas": 10,
+    "estado": "Perdió",
+    "fecha": "2026-03-08T04:34:21.499Z"
+  },
+  {
+    "id": "484802d1-05a2-4ec8-b57f-e0ec9913390d",
+    "nombre": "Esteban",
+    "aciertos": 8,
+    "totalPreguntas": 10,
+    "estado": "Ganó",
+    "fecha": "2026-03-08T19:47:19.262Z"
+  },
+  {
+    "id": "9877056a-b7fd-4807-be18-f2cbb03f5558",
+    "nombre": "Javier",
+    "aciertos": 9,
+    "totalPreguntas": 10,
+    "estado": "Ganó",
+    "fecha": "2026-03-08T21:02:39.972Z"
+  },
+  {
+    "id": "7b6a025d-d8f6-448f-8bfd-e782028bead4",
+    "nombre": "Pepe",
+    "aciertos": 9,
+    "totalPreguntas": 10,
+    "estado": "Ganó",
+    "fecha": "2026-03-09T01:25:17.839Z"
+  },
+  {
+    "id": "8c883195-92a5-4e3a-b2f4-d4c7107e961d",
+    "nombre": "Jose",
+    "aciertos": 9,
+    "totalPreguntas": 10,
+    "estado": "Ganó",
+    "fecha": "2026-03-09T03:32:39.840Z"
+  }
+]

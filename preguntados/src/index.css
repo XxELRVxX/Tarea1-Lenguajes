@@ -1,0 +1,37 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --azul: #1a1a2e;
+  --azul-medio: #16213e;
+  --azul-claro: #0f3460;
+  --dorado: #f5a623;
+  --dorado-claro: #ffc857;
+  --verde: #4ade80;
+  --rojo: #f87171;
+  --blanco: #f0f4ff;
+  --gris: #8892b0;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  background: var(--azul);
+  color: var(--blanco);
+  min-height: 100vh;
+}
+
+/* Fondo animado con estrellas */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 20% 50%, rgba(15, 52, 96, 0.4) 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 20%, rgba(245, 166, 35, 0.08) 0%, transparent 50%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+#root { position: relative; z-index: 1; }
+
+button { cursor: pointer; font-family: 'Nunito', sans-serif; }
+input { font-family: 'Nunito', sans-serif; }
